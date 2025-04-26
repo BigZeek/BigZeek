@@ -1,5 +1,31 @@
 ## Hi there 👋
 
+I'm a St. Cloud State University student looking to break into the world of software development. 
+
+While I may have been a late bloomer to the world of software, the passion and ambition I pride myself 
+on keeps me coming back to learn and grow. 
+
+Many of the projects you see here are done for various classes, but I'm working on something I think fans of 
+deep work will really enjoy! 
+
+I hope you find some interesting code while you are here!
+
+---
+Find Me: 
+[LinkedIn](https://www.linkedin.com/in/zak-groenewold-04b1a3220/)
+
+
+---
+## 💻 My Tools of Creation
+![](https://skillicons.dev/icons?i=git,python,java,dotnet,cs,vscode)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BigZeek)](https://github.com/BigZeek/github-readme-stats)
+
+
+---
+
+![BigZeek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BigZeek&show_icons=true&theme=radical)
+
 <!--
 **BigZeek/BigZeek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

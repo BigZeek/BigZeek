@@ -26,6 +26,10 @@ Find Me:
 
 ![BigZeek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BigZeek&show_icons=true&theme=radical)
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+
 Check out what I'm currently listening to! 
 ---
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=metalbass69&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=metalbass69&redirect=true)

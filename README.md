@@ -30,7 +30,9 @@ Find Me:
 <!--START_SECTION:waka-->
 
 ```txt
-Python   59 mins         █████████████████████████   100.00 %
+From: 22 May 2025 - To: 29 May 2025
+
+Python   2 hrs 39 mins   █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->

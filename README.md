@@ -30,9 +30,13 @@ Find Me:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 22 May 2025 - To: 29 May 2025
+From: 23 May 2025 - To: 30 May 2025
 
-Python   2 hrs 39 mins   █████████████████████████   100.00 %
+Python     2 hrs 39 mins   █████████████░░░░░░░░░░░░   52.45 %
+Razor      2 hrs 10 mins   ██████████▓░░░░░░░░░░░░░░   42.74 %
+C#         12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 %
+CSS        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
+Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
 ```
 
 <!--END_SECTION:waka-->

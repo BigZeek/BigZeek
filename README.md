@@ -5,8 +5,8 @@ I'm a St. Cloud State University student looking to break into the world of soft
 While I may have been a late bloomer to the world of software, the passion and ambition I pride myself 
 on keeps me coming back to learn and grow. 
 
-Many of the projects you see here are done for various classes, but I'm working on something I think fans of 
-deep work will really enjoy! 
+Many of the projects you see here are done for various classes, but some are projects made
+for the love of being creative!
 
 I hope you find some interesting code while you are here!
 
@@ -16,7 +16,7 @@ Find Me:
 
 
 ---
-## 💻 My Tools of Creation
+## 💻 My Favorite Tools
 ![](https://skillicons.dev/icons?i=git,python,java,dotnet,cs,vscode)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BigZeek)](https://github.com/BigZeek/github-readme-stats)

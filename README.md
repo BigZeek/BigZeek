@@ -40,7 +40,7 @@ Markdown     7 mins          ▒░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
-
+[![wakatime](https://wakatime.com/badge/user/af3e8694-2222-4de2-a458-248b84236d83.svg)](https://wakatime.com/@af3e8694-2222-4de2-a458-248b84236d83)
 
 Check out what I'm currently listening to! 
 ---

@@ -30,7 +30,7 @@ Find Me:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 June 2025 - To: 08 June 2025
+From: 02 June 2025 - To: 09 June 2025
 
 Python       2 hrs 57 mins   ██████████▓░░░░░░░░░░░░░░   42.88 %
 Razor        1 hr 57 mins    ███████░░░░░░░░░░░░░░░░░░   28.54 %

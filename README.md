@@ -30,7 +30,7 @@ Find Me:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 June 2025 - To: 13 June 2025
+From: 07 June 2025 - To: 14 June 2025
 
 C#                                 4 hrs 54 mins   ███████████████░░░░░░░░░░   59.94 %
 HTML                               1 hr 27 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.79 %

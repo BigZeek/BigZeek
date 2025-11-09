@@ -30,7 +30,7 @@ Find Me:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 October 2025 - To: 07 November 2025
+From: 01 November 2025 - To: 08 November 2025
 
 Python     35 mins         ████████████████████▒░░░░   80.90 %
 QML        6 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.68 %

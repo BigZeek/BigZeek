@@ -30,11 +30,10 @@ Find Me:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 November 2025 - To: 16 November 2025
+From: 10 November 2025 - To: 17 November 2025
 
-Python               2 hrs 21 mins   █████████████████████████   99.45 %
-QML                  0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
-Other                0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
+Python               2 hrs 12 mins   ████████████████████████░   95.82 %
+QML                  5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 %
 Wavefront Object     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
 Wavefront Material   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```

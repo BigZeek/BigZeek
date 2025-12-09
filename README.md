@@ -30,11 +30,10 @@ Find Me:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 November 2025 - To: 07 December 2025
+From: 01 December 2025 - To: 08 December 2025
 
-Python   3 hrs 35 mins   ███████████████████████░░   92.48 %
-Other    11 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.79 %
-CSV      6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.73 %
+Python   3 hrs 39 mins   ███████████████████████▓░   95.14 %
+Other    11 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.86 %
 ```
 
 <!--END_SECTION:waka-->

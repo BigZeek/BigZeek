@@ -30,10 +30,12 @@ Find Me:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 March 2026 - To: 01 April 2026
+From: 26 March 2026 - To: 02 April 2026
 
-JavaScript   8 hrs 31 mins         ███████████████████████▒░   93.35 %
-HTML         36 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.64 %
+JavaScript   5 hrs 27 mins         ██████████████████████░░░   87.58 %
+HTML         27 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.49 %
+Other        18 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   04.92 %
+Python       0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 CSS          0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 

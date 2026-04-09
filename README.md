@@ -30,7 +30,7 @@ Find Me:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 March 2026 - To: 07 April 2026
+From: 01 April 2026 - To: 08 April 2026
 
 JavaScript   4 hrs 11 mins         ███████████████████▓░░░░░   78.81 %
 Python       30 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.70 %

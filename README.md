@@ -1,9 +1,6 @@
 ## Hi there 👋
 
-I'm a St. Cloud State University student looking to break into the world of software development. 
-
-While I may have been a late bloomer to the world of software, the passion and ambition I pride myself 
-on keeps me coming back to learn and grow. 
+I'm a St. Cloud State University graduate looking to break into the world of software development. 
 
 Many of the projects you see here are done for various classes, but some are projects made
 for the love of being creative!

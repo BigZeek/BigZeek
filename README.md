@@ -27,11 +27,11 @@ Find Me:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 October 2026 - To: 23 October 2026
+From: 17 October 2026 - To: 24 October 2026
 
-JavaScript   2 hrs 50 mins         ████████████████████▒░░░░   81.24 %
-Markdown     21 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.28 %
-Other        17 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   08.48 %
+JavaScript   2 hrs 47 mins         ██████████████████████░░░   87.60 %
+Markdown     21 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   11.31 %
+Other        2 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 %
 ```
 
 <!--END_SECTION:waka-->
